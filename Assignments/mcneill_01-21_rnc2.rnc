@@ -1,0 +1,22 @@
+datatypes xsd = "http://www.w3.org/2001/XMLSchema-datatypes"
+
+start = sp
+sp = element sp {type, source, head, body}
+type = attribute type {"monologue"}
+source = element source {text}
+head = element head {movie, date, spkr}
+movie = element movie {"A Few Good Men"}
+date = element date {when, text}
+when = attribute when {xsd:date|xsd:gYearMonth|xsd:gYear}
+spkr = element spkr {text}
+body = element body {mixed{(pronoun | char | noun | adj | simile)*}}
+pronoun = element pronoun {who, text}
+who = attribute who {"Weinburg" | "Jessup" | "Marines"}
+char = element char {text}
+noun = element noun {category, con?, text}
+category = attribute category {"person" | "place" | "thing"}
+#lm: con stands for connotation.
+con = attribute con {text}
+adj = element adj {kind, text}
+kind = attribute kind {"positive" | "negative"}
+simile = element simile {mixed{(noun | pronoun)*}}

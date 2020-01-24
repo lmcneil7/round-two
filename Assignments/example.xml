@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<slime>
+    <!-- ebb: AMA: Hi! I'm an XML comment! --> 
+    <line n="1">For the simplest of all slime recipes, all you need is <ingred type="solid"
+            >cornstarch</ingred>.</line>
+    <line n="2">Just <action>dump some into a bowl</action>, add some <ingred type="liquid"
+            >water</ingred>, &amp; <action>start mixing</action>. Keep adding water until it reaches
+        the consistency you want (a good place to start is 2 parts cornstarch to 1 part
+        water).</line>
+    <line n="3">You can also add food coloring to make it look more legit.</line>
+</slime>

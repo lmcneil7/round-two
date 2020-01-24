@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../rnc/mcneill_01-21_rnc2.rnc" type="application/relax-ng-compact-syntax"?>
+<sp type="monologue">
+    <source>http://www.monologuedb.com/dramatic-male-monologues/a-few-good-men-colonel-nathan-r-jessep/</source>
+    <head>
+        <movie>A Few Good Men</movie>
+        <date when="1992-12-09">December 9, 1992</date>
+        <spkr> Colonel Nathan R. Jessup</spkr>
+    </head>
+    <body><pronoun who="Weinburg">You</pronoun> can’t handle the truth! …<noun category="person"
+            con="condescending">Son</noun>, <pronoun who="Marines">we</pronoun> live in a <noun
+            category="place">world</noun> that has walls, and those walls have to be guarded by
+            <noun category="person">men</noun> with <noun category="thing" con="violence"
+            >guns</noun>. <pronoun who="Jessup">Who</pronoun>’s gonna do it? <pronoun who="Weinburg"
+            >You</pronoun>? <pronoun who="Weinburg">You</pronoun>, <char>Lt. Weinburg</char>?
+            <pronoun who="Jessup">I</pronoun> have a greater <noun category="thing"
+            >responsibility</noun> than <pronoun who="Weinburg">you</pronoun> could possibly fathom.
+            <pronoun who="Weinburg">You</pronoun> weep for <char>Santiago</char>, and <pronoun
+            who="Weinburg">you</pronoun> curse <noun category="person">the marines</noun>. <pronoun
+            who="Weinburg">You</pronoun> have that luxury. <pronoun who="Weinburg">You</pronoun>
+        have the luxury of not knowing what <pronoun who="Jessup">I</pronoun> know. That
+            <char>Santiago</char>’s <noun category="thing" con="morbid">death</noun>, while <adj
+            kind="negative">tragic</adj>, probably saved lives. And my <noun category="thing"
+            >existence</noun>, while <adj kind="negative">grotesque</adj> and <adj kind="negative"
+            >incomprehensible</adj> to <pronoun who="Weinburg">you</pronoun>, saves lives. <pronoun
+            who="Weinburg">You</pronoun> don’t want the truth because deep down in <noun
+            category="place">places</noun>
+        <pronoun who="Weinburg">you</pronoun> don’t talk about at <noun category="place"
+            >parties</noun>, <pronoun who="Weinburg">you</pronoun> want <pronoun who="Jessup"
+            >me</pronoun> on that wall, <pronoun who="Weinburg">you</pronoun> need <pronoun
+            who="Jessup">me</pronoun> on that wall. <simile><pronoun who="Marines">We</pronoun> use
+            words like <noun category="thing">honor</noun>, <noun category="thing">code</noun>,
+                <noun category="thing" con="reliability">loyalty</noun>.</simile>
+        <pronoun who="Marines">We</pronoun> use these words as the backbone of a <noun
+            category="thing">life</noun> spent defending something. <pronoun who="Weinburg"
+            >You</pronoun> use them as a punchline. <pronoun who="Jessup">I</pronoun> have neither
+        the time nor the inclination to explain <pronoun who="Jessup">myself</pronoun> to a man who
+        rises and sleeps under the blanket of the very <noun category="thing" con="equality"
+            >freedom</noun> that <pronoun who="Jessup">I</pronoun> provide, and then questions the
+        manner in which <pronoun who="Jessup">I</pronoun> provide it. <pronoun who="Jessup"
+            >I</pronoun> would rather <pronoun who="Weinburg">you</pronoun> just said thank <pronoun
+            who="Weinburg">you</pronoun>, and went on <pronoun who="Weinburg">your</pronoun> way.
+        Otherwise, <pronoun who="Jessup">I</pronoun> suggest <pronoun who="Weinburg">you</pronoun>
+        pick up a weapon and stand a post. Either way, <pronoun who="Jessup">I</pronoun> don’t give
+        a damn what <pronoun who="Weinburg">you</pronoun> think <pronoun who="Weinburg"
+            >you</pronoun> are entitled to.</body>
+</sp>
